@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Heebo:wght@500&family=Montserrat:wght@400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Heebo', sans-serif;
+}
+.navbar{
+    background-color: #7d5a50;
+}
+.d-flex{
+    padding-right: 2%;
+}
+.header-logo{
+    width: 10%;
+}
+.container-fluid{
+    padding: 0;
+}
+.img-1{
+    background-color: #E5B299;
+}
+.img-1-img{
+    margin-left: 43rem;
+    border-radius: 1rem;
+    height: 85vh;
+}
+.header-h1{
+    position: absolute;
+    padding: 8% 4.6%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #ffe9d4;
+}
+.h1{
+    position: absolute;
+    padding: 15% 5%;
+    font-family: 'Arimo', sans-serif;
+    font-size: 1.5rem;
+    width: 45rem;
+    color: #FCDEC0;
+}
+.features{
+    padding: 5% 10%;
+}
+.subjects-h1{
+    padding: 3% 0;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-weight: 900;
+    font-size: 3rem;
+}
+.feature-box{
+    text-align: center;
+}
+.feature-box-img{
+    border-radius: 100%;
+    width: 100%;
+}
+.feature-box-title{
+    margin-top: 10px;
+}
+#sports{
+    background-color: #FCDEC0;
+}
+.subject{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+}
+.subject-h3{
+    font-family: 'Merriweather', serif;
+    margin: 1rem auto;
+}
+.subject-p{
+    font-family: 'Arimo', sans-serif;
+    font-size: 23px;
+    width: 70%;
+    margin: 1rem auto;
+}
+.subject-img{
+    border-radius: 1rem;
+}
+.subject-img-2{
+    border-radius: 1rem;
+    width: 31%;
+}
+.subject-h3-2{
+    font-family: 'Merriweather', serif;
+    margin-left: 5rem;
+    text-align: right;
+}
+.subject-img-3{
+    border-radius: 1rem;
+    width: 30%;
+}
+.subject-img-4{
+    border-radius: 1rem;
+    width: 30%;
+}
+.achha{
+    display: flex;
+    flex-direction: row;
+}
+.subject-h3-3{
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    text-align: center;
+}
+.subject-img-last{
+    width: 30%;
+    border-radius: 1rem;
+}
+.subject-p-last{
+    font-family: 'Arimo', sans-serif;
+    font-size: 23px;
+    width: 70%;
+    margin: 1rem auto;
+}
+.padder{
+    padding: 3% 5%;
+}
+#footer{
+    text-align: center;
+}
+.chal{
+    padding: 5% 15%;
+}
+.chal-oye{
+    font-size: 2rem;
+    margin: auto 1rem;
+    color: #212529;
+}
+.footer{
+    font-family: 'Arimo', sans-serif;
+    margin-top: 1rem;
+}
+.carousel-item{
+    text-align: center;
+}
